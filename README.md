@@ -1,5 +1,3 @@
-![](https://nirzak-streak-stats.vercel.app/?user=ifairuss&theme=dark&hide_border=false) 
-
 <h1 align="center">Unity developer</h1>
 
 ###
